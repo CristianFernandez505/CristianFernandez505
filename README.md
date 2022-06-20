@@ -1,18 +1,18 @@
-<h1 align="center">م عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-3ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<h1 align="center"> Cristian Fernández <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-3ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
   <img src="https://telegra.ph/Cristian-MD-06-20" />
 </p>
 
 <p align="center">
 
-- 👼 My name is 
-- 🗣️ I am 19 years old 
+- 👼 My name is Cristian Fernández
+- 🗣️ I am 17 years old 
 - 🔭 I am not programmer
 
 </p>
 
 ------
-### Connect with me ☎️
+### Mis Redes Sociales
 <p align="center">
   <a href="https://instagram.com/kael_bot"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6285601517617"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
