@@ -1,6 +1,6 @@
 <h1 align="center"> Cristian Fernández <img src="" width="900px" alt=""><br></h1>
 <p align="center">
-  <img src="https://i.ibb.co/bb5Q038/f75da1332b9745aa21b628aaca5d176d.jpg" />
+  <img src="" />
 </p>
 
 - 👼 My name is Cristian Fernández
