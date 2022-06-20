@@ -15,6 +15,5 @@
   <a href="https://www.yout/channel/UCqfsqGdleLAxtJ71COubRRQ/featured"><img src="https://img.shields.io/badge/YouTube-Cristian-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA" /><br>
   <a name=Cristian-Fernández&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/CristianFernandez505"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="/featured"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
 </p>
 </details>
