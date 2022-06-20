@@ -1,6 +1,6 @@
 <h1 align="center"> Cristian Fernández <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-3ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-  <img src="https://telegra.ph/Cristian-MD-06-20" />
+  <img src="https://i.ibb.co/bb5Q038/f75da1332b9745aa21b628aaca5d176d.jpg" />
 </p>
 
 <p align="center">
