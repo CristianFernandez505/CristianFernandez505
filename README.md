@@ -4,7 +4,6 @@
 
 -  Hi,My name is Cristian Fernández
 -  I am 17 years old 
--  I am programmer
 
 ## Mis Redes Sociales
 <p align="center">
