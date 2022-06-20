@@ -18,7 +18,36 @@
 </p>
 
 
+## Visitor 
+<p align="center">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:rlxfly?theme=rule34">
+</p>
+
+
+
+
+
+
+   
+  <a href="https://github.com/Rlxfly"><img src="https://github-profile-trophy.vercel.app/?username=Rlxfly&theme=tokyonight" /></a>
+</p>
+  
+   <p align="center">
+  <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=nightowl" /></a>
+</p>
+
+
+
+
+
+
+
+
 ## GitHub Stats
+  
+   <p align="center">
+  <a href="https://github.com/lxfly"><img src="https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=nightowl" /></a>
+</p>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CAF-ID&show_icons=true&locale=en&layout=compact&theme=radical" alt="CAF-ID" /></p>
 
@@ -26,7 +55,5 @@
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAF-ID&theme=radical" alt="CAF-ID" /></p>
  
  <br />
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CAF-ID&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 </details>
