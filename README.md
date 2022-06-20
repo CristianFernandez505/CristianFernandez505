@@ -1,5 +1,7 @@
 ![My card name](https://cardivo.vercel.app/api?name=Cristian_Fernandez_505&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.ibb.co/JyMGhmp/2d23d8d1fa269b3ba8707f8cde7b27cf.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=Cristian_505_Fernández&github=Cristian_Fernandez_505&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
+</p>
+
 -  Hi,My name is Cristian Fernández
 -  I am 17 years old 
 -  I am programmer
