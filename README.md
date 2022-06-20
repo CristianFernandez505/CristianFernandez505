@@ -1,11 +1,12 @@
 <h1 align="center"> Cristian Fernández <img src="" width="900px" alt=""><br></h1>
 <p align="center">
-  <img src="" />
+<img src="https://i.ibb.co/JyMGhmp/2d23d8d1fa269b3ba8707f8cde7b27cf.jpg" alt="2d23d8d1fa269b3ba8707f8cde7b27cf" border="0"></a>
+
 </p>
 
-- 👼 My name is Cristian Fernández
-- 🗣️ I am 17 years old 
-- 🔭 I am not programmer
+-  My name is Cristian Fernández
+-  I am 17 years old 
+-  I am not programmer
 
 </p>
 
@@ -21,7 +22,5 @@
   <a href="https://www.youtube.com/channel/UCqfsqGdleLAxtJ71COubRRQ/featured"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=Kanna-Chan&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Kanna-Chan&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
-
-<img src="https://i.ibb.co/4TjHDLK/ara-anime.gif" width="5px" alt="">
 
 </details>
