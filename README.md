@@ -1,9 +1,7 @@
-<h1 align="center"> Cristian Fernández <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-3ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<h1 align="center"> Cristian Fernández <img src="" width="900px" alt=""><br></h1>
 <p align="center">
   <img src="https://i.ibb.co/bb5Q038/f75da1332b9745aa21b628aaca5d176d.jpg" />
 </p>
-
-<p align="center">
 
 - 👼 My name is Cristian Fernández
 - 🗣️ I am 17 years old 
@@ -23,5 +21,7 @@
   <a href="https://www.youtube.com/channel/UCqfsqGdleLAxtJ71COubRRQ/featured"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=Kanna-Chan&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Kanna-Chan&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
+
+<img src="https://i.ibb.co/4TjHDLK/ara-anime.gif" width="5px" alt="">
 
 </details>
